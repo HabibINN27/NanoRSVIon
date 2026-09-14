@@ -1,0 +1,24 @@
+##gff-version 3
+##sequence-region OP975389.1 1 15225
+OP975389.1	NCBI	gene	57	476	.	+	.	ID=gene_57_476;gene=NS1
+OP975389.1	NCBI	CDS	57	476	.	+	.	ID=CDS_57_476;gene=NS1;product=nonstructural protein 1;protein_id=WBQ20019.1;codon_start=1
+OP975389.1	NCBI	gene	584	958	.	+	.	ID=gene_584_958;gene=NS2
+OP975389.1	NCBI	CDS	584	958	.	+	.	ID=CDS_584_958;gene=NS2;product=nonstructural protein 2;protein_id=WBQ20020.1;codon_start=1
+OP975389.1	NCBI	gene	1097	2272	.	+	.	ID=gene_1097_2272;gene=N
+OP975389.1	NCBI	CDS	1097	2272	.	+	.	ID=CDS_1097_2272;gene=N;product=nucleocapsid protein;protein_id=WBQ20021.1;codon_start=1
+OP975389.1	NCBI	gene	2305	3030	.	+	.	ID=gene_2305_3030;gene=P
+OP975389.1	NCBI	CDS	2305	3030	.	+	.	ID=CDS_2305_3030;gene=P;product=phosphoprotein;protein_id=WBQ20022.1;codon_start=1
+OP975389.1	NCBI	gene	3154	3990	.	+	.	ID=gene_3154_3990;gene=M
+OP975389.1	NCBI	CDS	3154	3990	.	+	.	ID=CDS_3154_3990;gene=M;product=matrix protein;protein_id=WBQ20023.1;codon_start=1
+OP975389.1	NCBI	gene	4259	4456	.	+	.	ID=gene_4259_4456;gene=SH
+OP975389.1	NCBI	CDS	4259	4456	.	+	.	ID=CDS_4259_4456;gene=SH;product=small hydrophobic protein;protein_id=WBQ20024.1;codon_start=1
+OP975389.1	NCBI	gene	4646	5578	.	+	.	ID=gene_4646_5578;gene=G
+OP975389.1	NCBI	CDS	4646	5578	.	+	.	ID=CDS_4646_5578;gene=G;product=attachment glycoprotein;protein_id=WBQ20025.1;codon_start=1
+OP975389.1	NCBI	gene	5676	7400	.	+	.	ID=gene_5676_7400;gene=F
+OP975389.1	NCBI	CDS	5676	7400	.	+	.	ID=CDS_5676_7400;gene=F;product=fusion glycoprotein;protein_id=WBQ20026.1;codon_start=1
+OP975389.1	NCBI	gene	7627	8214	.	+	.	ID=gene_7627_8214;gene=M2-1
+OP975389.1	NCBI	CDS	7627	8214	.	+	.	ID=CDS_7627_8214;gene=M2-1;product=transcription elongation factor M2-1;protein_id=WBQ20027.1;codon_start=1
+OP975389.1	NCBI	gene	8180	8452	.	+	.	ID=gene_8180_8452;gene=M2-2
+OP975389.1	NCBI	CDS	8180	8452	.	+	.	ID=CDS_8180_8452;gene=M2-2;product=transcription elongation factor M2-2;protein_id=WBQ20028.1;codon_start=1
+OP975389.1	NCBI	gene	8518	15018	.	+	.	ID=gene_8518_15018;gene=L
+OP975389.1	NCBI	CDS	8518	15018	.	+	.	ID=CDS_8518_15018;gene=L;product=RNA-directed RNA polymerase;protein_id=WBQ20029.1;codon_start=1

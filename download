@@ -1,0 +1,23 @@
+# Pipeline run outputs (large, sample-derived; never publish sequencing data here)
+nanopore_output_*/
+First Run - Results/
+analysis_output_*.txt
+
+# Ad hoc analysis exports, not part of the pipeline package
+all_six_runs_F_G_lineage_statistics.*
+
+# Vendored external lineage-designation clones (separate upstream repos, not ours to redistribute)
+rsv_lineage_references/
+
+# Build/derived artifacts regenerated at runtime, not packaged assets
+*.mmi
+
+# Superseded development snapshots kept locally, not part of the published release
+rsv-nanopore-v1
+rsv-nanopore-F-v2
+rsv-nanopore-F-v3
+rsv-nanopore-F-v4
+rsv-nanopore-F-v5-before-publication-filter
+
+# Personal local shortcut symlink
+hbrsv4O.sh

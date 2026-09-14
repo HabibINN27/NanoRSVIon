@@ -1,0 +1,17 @@
+name: rsv-nanopore
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.10
+  - ruby
+  - minimap2
+  - samtools
+  - ivar
+  - bcftools
+  - htslib
+  - tabix
+  - coreutils
+  - findutils
+  - gawk
+  - shellcheck

@@ -1,0 +1,24 @@
+##gff-version 3
+##sequence-region PP109421.1 1 15225
+PP109421.1	NCBI	gene	70	489	.	+	.	ID=gene_70_489;gene=NS1
+PP109421.1	NCBI	CDS	70	489	.	+	.	ID=CDS_70_489;gene=NS1;product=nonstructural protein 1;protein_id=WTM05205.1;codon_start=1
+PP109421.1	NCBI	gene	599	973	.	+	.	ID=gene_599_973;gene=NS2
+PP109421.1	NCBI	CDS	599	973	.	+	.	ID=CDS_599_973;gene=NS2;product=nonstructural protein 2;protein_id=WTM05206.1;codon_start=1
+PP109421.1	NCBI	gene	1111	2286	.	+	.	ID=gene_1111_2286;gene=N
+PP109421.1	NCBI	CDS	1111	2286	.	+	.	ID=CDS_1111_2286;gene=N;product=nucleoprotein;protein_id=WTM05207.1;codon_start=1
+PP109421.1	NCBI	gene	2318	3043	.	+	.	ID=gene_2318_3043;gene=P
+PP109421.1	NCBI	CDS	2318	3043	.	+	.	ID=CDS_2318_3043;gene=P;product=phosphoprotein;protein_id=WTM05208.1;codon_start=1
+PP109421.1	NCBI	gene	3226	3996	.	+	.	ID=gene_3226_3996;gene=M
+PP109421.1	NCBI	CDS	3226	3996	.	+	.	ID=CDS_3226_3996;gene=M;product=matrix protein;protein_id=WTM05209.1;codon_start=1
+PP109421.1	NCBI	gene	4266	4460	.	+	.	ID=gene_4266_4460;gene=SH
+PP109421.1	NCBI	CDS	4266	4460	.	+	.	ID=CDS_4266_4460;gene=SH;product=small hydrophobic protein;protein_id=WTM05210.1;codon_start=1
+PP109421.1	NCBI	gene	4652	5617	.	+	.	ID=gene_4652_5617;gene=G
+PP109421.1	NCBI	CDS	4652	5617	.	+	.	ID=CDS_4652_5617;gene=G;product=attachment glycoprotein;protein_id=WTM05211.1;codon_start=1
+PP109421.1	NCBI	gene	5697	7421	.	+	.	ID=gene_5697_7421;gene=F
+PP109421.1	NCBI	CDS	5697	7421	.	+	.	ID=CDS_5697_7421;gene=F;product=fusion protein;protein_id=WTM05212.1;codon_start=1
+PP109421.1	NCBI	gene	7640	8224	.	+	.	ID=gene_7640_8224;gene=M2-1
+PP109421.1	NCBI	CDS	7640	8224	.	+	.	ID=CDS_7640_8224;gene=M2-1;product=M2-1 protein;protein_id=WTM05215.1;codon_start=1
+PP109421.1	NCBI	gene	8199	8465	.	+	.	ID=gene_8199_8465;gene=M2-2
+PP109421.1	NCBI	CDS	8199	8465	.	+	.	ID=CDS_8199_8465;gene=M2-2;product=M2-2 protein;protein_id=WTM05214.1;codon_start=1
+PP109421.1	NCBI	gene	8532	15029	.	+	.	ID=gene_8532_15029;gene=L
+PP109421.1	NCBI	CDS	8532	15029	.	+	.	ID=CDS_8532_15029;gene=L;product=RNA-dependent RNA polymerase;protein_id=WTM05213.1;codon_start=1

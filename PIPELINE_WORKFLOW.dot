@@ -1,0 +1,18 @@
+digraph RSV_Pipeline {
+rankdir=LR;
+node [shape=box, style="rounded,filled", fillcolor="#EAF4FF", color="#2563EB", fontname="Helvetica"];
+edge [color="#475569", penwidth=1.2];
+input [label="Interactive input\nRSV type • BED • FASTQ • depth • threads • HAC/SUP", fillcolor="#DCFCE7"];
+ref [label="Reference selection\nRSV-A: PP109421.1\nRSV-B: OP975389.1"];
+bed [label="Primer scheme\nRSV-750 • ARTIC • custom BED"];
+align [label="Read alignment\nminimap2 + samtools"];
+trim [label="Primer trimming\niVar trim"];
+minor [label="Optional minority variants\niVar + GFF3 annotation", fillcolor="#FEF3C7"];
+medaka [label="Consensus polishing\nMedaka (Docker) + HAC/SUP"];
+variants [label="Variant calling and annotation\nbcftools + GFF3"];
+coverage [label="Coverage filtering\nDepth threshold + masking"];
+consensus [label="Final consensus genome\nFASTA + VCF", fillcolor="#DCFCE7"];
+reports [label="QC graphs and reports\nMapping • coverage • depth • variants • amino acids", fillcolor="#FCE7F3"];
+input -> ref -> bed -> align -> trim -> medaka -> variants -> coverage -> consensus -> reports;
+trim -> minor -> medaka;
+}

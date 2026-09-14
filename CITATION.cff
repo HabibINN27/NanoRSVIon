@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it and retain the copyright notice."
+title: "RSV Nanopore Consensus Pipeline"
+version: "1.0.0"
+date-released: "2026-07-28"
+authors:
+  - family-names: Benainouna
+    given-names: Habib
+license: MIT
+repository-code: "https://github.com/REPLACE_WITH_YOUR_REPOSITORY/rsv-nanopore"
+abstract: "Interactive Nanopore amplicon processing pipeline for RSV-A and RSV-B consensus generation."
+keywords:
+  - RSV
+  - respiratory syncytial virus
+  - Nanopore
+  - consensus sequence
+  - bioinformatics
