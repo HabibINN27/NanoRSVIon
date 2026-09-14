@@ -1,4 +1,4 @@
-cff-version: 1.2.0
+cff-version: 1.0.0
 message: "If you use this software, please cite it and retain the copyright notice."
 title: "RSV Nanopore Consensus Pipeline"
 version: "1.0.0"
