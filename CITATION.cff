@@ -7,7 +7,7 @@ authors:
   - family-names: Benainouna
     given-names: Habib
 license: MIT
-repository-code: "https://github.com/REPLACE_WITH_YOUR_REPOSITORY/rsv-nanopore"
+repository-code: "https://github.com/HabibINN27/NanoRSVIon"
 abstract: "Interactive Nanopore amplicon processing pipeline for RSV-A and RSV-B consensus generation."
 keywords:
   - RSV
